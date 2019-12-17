@@ -1,0 +1,11 @@
+
+
+5 replicates each for solvent control (0.01% DMSO) and EE2-treated (100 ng/L in 0.01% DMSO)
+
+fish were exposed 2-4 hrs post fertilization to 4 days post hatch
+embryos were pooled for total RNA extraction and library preparation (poly-A enrichment module)
+run in an Illumina HiSeq for 200 base-pairs (100 x 2) paired-end sequencing
+
+fastq files of 100,000 reads each (randomly extracted using seqtk) from EE2 exposed fathead minnows
+Solvent Control = (SA, SB, SC, SD, SE)
+Treated = (HA, HB, HC, HD, HE)
